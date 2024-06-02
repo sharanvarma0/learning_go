@@ -95,9 +95,3 @@ func main() {
 
     fmt.Printf("Queue: %v\n Distance: %v\n Prececessors: %v\n", queue, distance, predecessor)
 }
-
-    
-    
-        
-        
-    
