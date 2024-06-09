@@ -89,9 +89,3 @@ func main() {
     }
     fmt.Printf("Predecessor: %v\n", predecessor)
 }
-
-    
-    
-        
-        
-    
